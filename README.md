@@ -7,6 +7,7 @@
 [https://diablo4.life](https://diablo4.life)  
 [https://diablo4.th.gl](https://diablo4.th.gl)  
 [https://lothrik.github.io/diablo4-build-calc](https://lothrik.github.io/diablo4-build-calc)  
+[https://www.d4craft.com](https://www.d4craft.com)  
 []()  
 
 ### Github
